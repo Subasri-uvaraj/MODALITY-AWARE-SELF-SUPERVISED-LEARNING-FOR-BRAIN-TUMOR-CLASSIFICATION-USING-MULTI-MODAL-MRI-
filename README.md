@@ -64,6 +64,8 @@ A Vision Transformer (ViT) combined with self-supervised learning (SSL) is used 
 * Experiment with hybrid CNN-Transformer models
 
 ---
+This project uses a dataset available on Kaggle:
+https://www.kaggle.com/datasets/subasriuvaraj004/dataset-modality-aware-ssl
 
  Author
 
